@@ -1,0 +1,176 @@
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding: 10px;
+    height: auto;
+    
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+  .top-links {
+      float: right;
+      margin: 0 20px 0 0;
+      padding: 0;    
+
+  }
+  .top-links li {
+      display: inline-block;
+      margin: 0 10px;
+  }
+  .top-left {
+      display: inline-block;
+  }
+  header {
+      background-image: url(https://svgshare.com/getbyhash/sha1-MLgY02S0jNJau4vfG9WPGGia+gc=);
+      color: white;
+      height: 400px;
+
+  }
+  .npm-logo{
+      float: left;
+      
+      height: 35px;
+      width: 10%;
+      margin-right: 15px;
+
+  }
+  .Search-bar{
+      float:left;    
+      width: 70%;
+      background: rgb(31, 82, 111);
+      height:30px;
+  }
+   
+   .header-bar{
+      padding: 20px;
+      height: auto;
+      
+  }
+  .bear-logo{
+      height: 35px;
+      float: left;
+  }
+  .signup-link{
+      text-decoration: none;
+      color: white;
+      padding:10px;
+      float: left;
+      
+  }
+  .header-info{
+      margin: 0 auto;
+      width: 60%;
+  }
+  h1 {
+      font-size: 50px;
+  }
+  .text-div{
+      width: 70%;
+      float: left;
+  }
+  .header-text{
+      width: 70%;
+      text-align: left;
+      font-size: 20px;
+  }
+  .signup-button{
+      background: rgb(240, 146, 51);
+      text-align: center;
+      border:none;
+      border-radius:20px;
+      padding:10px;
+      font-size:15px;
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
+  .signup-div{
+      width: 60%;
+      margin: 0 auto;
+  }
+  .signup{
+    background-color: rgb(39, 53, 71);
+    color: white;
+
+  }
+  .collaboration{
+      float: left;
+      height: 500px;
+      width: 40%;
+      margin: 0 25px;
+      
+
+  }
+  .signup-text{
+      float: right;
+      padding: 120px 20px;
+      width: 40%;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .collaboration-button{
+    background:rgb(203, 56, 55);
+    text-align: center;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+    font-size:15px;
+  }
+  .collaboration-ul{
+      font-size: 15px;
+      line-height: 1.8;
+      
+  }
+  .clearfix{
+      clear: both;
+  }
+  .whatis{
+      background-image: url(https://svgshare.com/getbyhash/sha1-FnH0fHA86gM3VkstEEOSZ1JRjxU=);
+      background-size: cover;
+      height: 600px;
+
+  }
+  .whatis-container{
+      width: 60%;
+      margin: 0 auto;
+  }
+  .whatis-text{
+      float: left;
+      width: 40%;
+      margin-top: 250px;
+  }
+  .whatis-text h2{
+      font-size: 30px;
+  }
+  .whatis-button{
+    background:rgb(49, 68, 88);
+    text-align: center;
+    border:none;
+    border-radius:20px;
+    padding:10px;
+    font-size:15px;
+  }
+  .last-heading {
+      text-align: center;
+      margin: 50px 0 50px 0;
+  }
+  .last-heading h2{
+      font-size: 30px;
+      font-weight: lighter;
+      
+      
+  }
+  .col{
+      width: 33%;
+      float: left;
+      text-align: center;
+      font-size:16px;
+      line-height: 1.6;
+  }
+  .col a {
+      color: rgb(208, 74, 73);
+  }
